@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Medal branch에서 처음부터 다시 시작함',
+              'Medal branch에서 처음부터 다시 시작함. 22임',
             ),
             Text(
               '$_counter',
